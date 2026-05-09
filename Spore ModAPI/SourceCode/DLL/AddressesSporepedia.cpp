@@ -8,7 +8,7 @@
 #include <Spore\Sporepedia\cSPUILargeAssetView.h>
 #include <Spore\Sporepedia\ISPUILargeAssetView.h>
 
-namespace Sporepedia
+namespace Bio-cards
 {
 	namespace Addresses(ShopperRequest) 
 	{
